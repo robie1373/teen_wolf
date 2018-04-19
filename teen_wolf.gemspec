@@ -15,7 +15,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = TeenWolf::VERSION
 
-  gem.add_dependency 'nokogiri', '~>1.5.1'
+  gem.add_dependency 'nokogiri', '~>1.8.2'
   gem.add_dependency  "bundler", '~>1.1.4'
   gem.add_dependency  'rake', '~>0.9.2.2'
 
